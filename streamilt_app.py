@@ -1,6 +1,7 @@
 import streamlit
 
-streamlit.title('Nowa aplikacja do nauki SnowFlake')
-streamlit.header('Jak wygląda header?')
-streamlit.text('Jak wygląda testeks?')
-streamlit.text('Jak wygląda tekst 2?')
+streamlit.title('Nowa aplikacja do nauki SnowFlake. Breakfast Menu:')
+
+streamlit.text('Omega 3 & Blueberry Oatmeal')
+streamlit.text('Kale, Spinach & Rocket Smoothie')
+streamlit.text('Hard-Boiled Free-Range Egg')
